@@ -7,7 +7,6 @@ import com.AccionlabsQAAssignment.Pages.Login.LoginPage;
 import com.AccionlabsQAAssignment.Tests.TestBase;
 
 import org.testng.annotations.BeforeTest;
-import org.testng.annotations.Parameters;
 
 import ru.yandex.qatools.allure.annotations.Description;
 import ru.yandex.qatools.allure.annotations.Severity;
